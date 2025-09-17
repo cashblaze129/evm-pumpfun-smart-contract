@@ -2,6 +2,12 @@
 
 A Solidity implementation of a PumpFun-style token launch platform with bonding curve mechanism for EVM-compatible blockchains.
 
+## 📩 Contact Me on Telegram
+
+For inquiries, collaborations, or support, feel free to reach out:
+
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze129)
+
 ## Overview
 
 This project implements a decentralized token launch platform inspired by PumpFun, featuring:
